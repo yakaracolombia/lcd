@@ -1,0 +1,4 @@
+sudo cp ./lcd_35_v1/kernel.img /boot/kernel.img
+sudo cp ./lcd_35_v1/kernel7.img /boot/
+sudo cp -rf ./lcd_35_v1/lib/* /lib/
+sudo reboot
